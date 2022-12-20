@@ -256,7 +256,7 @@ nav.main-menu a:link, nav.main-menu a:hover, nav.main-menu a:focus, nav.main-men
     color:#233842;
 }
 mark.bleu {
-    background-color: rgba(0,0,0,.25);
+    background-color: rgba(0,0,0,.25) !important;
     color: white;
 }
 /***** Element *****/
