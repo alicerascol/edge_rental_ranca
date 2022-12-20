@@ -208,7 +208,7 @@ nav.main-menu a:link, nav.main-menu a:hover, nav.main-menu a:focus, nav.main-men
 }
 /***** Features *****/
 #templatemo_features {
-    background: #455a64 url(../images/pattern_bg.png) fixed;
+    background: #3d799f fixed;
     padding-bottom: 130px;
 }
 #templatemo_features p {
@@ -255,28 +255,9 @@ nav.main-menu a:link, nav.main-menu a:hover, nav.main-menu a:focus, nav.main-men
     font-size: 56px;
     color:#233842;
 }
-/***** Download *****/
-#templatemo_download { 
-    background: url(../images/download_background.jpg) fixed;
-}
-#templatemo_download h2 {
-    font: normal normal 100 100px/150px 'Fira Sans', sans-serif;
-    text-align: center;
-    color: #fff;
-}
-#templatemo_download p {
-    text-align: center;
-    color: #fff;
-}
-#templatemo_download a {
-    margin: 50px auto 100px auto;
-    display: block;
-    width: 260px;
-}
-#templatemo_download .templatemo_download_text_wapper {
-    width: 100%;
-    max-width: 550px;
-    margin: auto;
+mark.bleu {
+    background-color: rgba(0,0,0,.25);
+    color: white;
 }
 /***** Element *****/
 #templatemo_element .container {
@@ -307,7 +288,7 @@ nav.main-menu a:link, nav.main-menu a:hover, nav.main-menu a:focus, nav.main-men
 #templatemo_element #img-grid-wapper > div { padding: 5px;}
 /***** Contact *****/
 #templatemo_contact {
-    background: #455a64 url(../images/pattern_bg.png) fixed;
+    background: #3d799f fixed;
     color: #fff;
 }
 #templatemo_contact header h1 { color: #fff;}
@@ -354,9 +335,8 @@ nav.main-menu a:link, nav.main-menu a:hover, nav.main-menu a:focus, nav.main-men
     color: #223741;
 }
 #templatemo_contact .social .social-facebook { background: #4a6fb5;}
-#templatemo_contact .social .social-twitter { background: #28a9e0;}
-#templatemo_contact .social .social-youtube { background: #f86d70;}
 #templatemo_contact .social .social-instagram { background: #cab9a9;}
+
 /***** Footer *****/
 footer {
     padding: 20px 0 16px 0;
